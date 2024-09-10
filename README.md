@@ -9,21 +9,6 @@ This project is a simple portfolio website. It is built with React and styled us
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/recent-projects.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd recent-projects
-   ```
-3. Install the dependencies:
-   ```sh
-   npm install
-   ```
-
 ## Usage
 
 1. Start the development server:
